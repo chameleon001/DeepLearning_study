@@ -4,3 +4,5 @@
 Tensorflow
 Pytorch
 Numpy
+
+밑바닥부터 시작하는 딥러닝 공부포함 
